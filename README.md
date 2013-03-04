@@ -2,7 +2,8 @@
 heatmap.js is a JavaScript library that can be used to generate web heatmaps with the html5canvas element based on your data.
 
 ## How it works
-Heatmap instances contain a store in order to colorize the heatmap based on relative data, which means if you're adding only a single datapoint to the store it will be displayed as the hottest(red) spot, then adding another point with a higher count, it will dynamically recalculate. 
+рлорлор
+store in order to colorize the heatmap based on relative data, which means if you're adding only a single datapoint to the store it will be displayed as the hottest(red) spot, then adding another point with a higher count, it will dynamically recalculate. 
 The heatmaps are fully customizable - your welcome to choose your own color gradient, change it's opacity, datapoint radius and many more. 
 
 ## How to use it
